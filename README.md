@@ -18,7 +18,7 @@
 2、基于server酱使得签到成功时会将签到信息发送至你的微信。<br>
 2、无需挂在任何服务器上，只需要点几下，让github自动为你签到。<br>
 3、使用强大的GitHub actions功能，实现无服务器实时监控您的学习通签到。<br>
-4、无需掌握任何编程知识，强大的后端后端已做好，您仅需点击几下。
+4、无需掌握任何编程知识，强大的后端后端已做好，您仅需点击几下
 
 
 
@@ -29,7 +29,7 @@
 
 - Fork本项目后进入自己的仓库，点击你的仓库右上角的 Settings，找到 Secrets
     <details>
-   <summary> 如何Fork本项目？</summary>
+   <summary> 如何Fork本项目</summary>
    注册或登陆您的github账号，访问<https://github.com/Closty/chaoxing>进入github的本项目页面中，点击右上角的Fork按钮，如图所示。
    
    ![Fork本项目][7]
