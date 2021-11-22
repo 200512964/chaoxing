@@ -31,7 +31,7 @@ cookies_path = "cookies.json"  # cookies.json 保存路径
 # activeid保存文件路径
 activeid_path = "activeid.txt"
 
-# =================配置区end===================
+# =================配置区end==================
 
 
 class AutoSign(object):
